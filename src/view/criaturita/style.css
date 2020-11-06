@@ -1,0 +1,21 @@
+.background-cover {
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    display: flex;
+    align-items: center;
+}
+
+.main-text {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.div-images {
+    align-self: center;
+    margin: auto;
+}
