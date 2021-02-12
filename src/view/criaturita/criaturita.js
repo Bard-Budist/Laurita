@@ -20,7 +20,7 @@ const Criaturita = (props) => {
         'Poco a poco te voy conociendo',
         'Y mas y mas me encantas',
         'Y si que tengo suerte por haberte conocido',
-        'Y de verdad espero en un futuro no muy lejano',
+        'Y de verdad espero que en un futuro no muy lejano',
         'Ser tu pareja',
         'Y demostrarte lo mucho que te amo.',
         'Maybe, esto te parezca inesperado',
