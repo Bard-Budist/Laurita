@@ -14,8 +14,8 @@ import React from 'react';
 const Routes = () => {
     return (
         <Switch>
-            <Redirect exact from="/" to="/criaturita" />
-                <Route path="/criaturita" component={Laura}/>
+            <Redirect exact from="/" to="/uwu" />
+                <Route path="/uwu" component={Laura}/>
             <Redirect to="/not-found" />
         </Switch>
     )
